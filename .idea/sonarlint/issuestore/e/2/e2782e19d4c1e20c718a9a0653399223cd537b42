@@ -1,0 +1,6 @@
+
+m	java:S117	"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÓÙ«Í8Ø¨ÉŠ¿1
+m	java:S117	"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÓÙ«Í8¸ä¹¿1
+u	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ç‘õ8ş÷¿‹¿1
+q
+java:S1128"TRemove this unnecessary import: same package classes are always implicitly imported.(Æ¯Ÿş8µ²Ã°¿1
