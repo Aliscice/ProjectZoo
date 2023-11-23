@@ -1,25 +1,0 @@
-
-m	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÓÉÇˆ8€‰’¿1
-m	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÓÉÇˆ8€‰’¿1
-m	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŸĞşı8€‰’¿1
-m	java:S117+"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ş‘øì8€‰’¿1
-p
-java:S1104"TMake nickname a static final constant or non-public and provide accessors if needed.(ÔÀª\8€‰’¿1
-{
-java:S1104"YMake favorite_food a static final constant or non-public and provide accessors if needed.(ÊÕÃóıÿÿÿÿ8€‰’¿1
-l
-java:S1104"OMake age a static final constant or non-public and provide accessors if needed.(×Áò¿8€‰’¿1
-x
-java:S1104	"VMake date_entry a static final constant or non-public and provide accessors if needed.(’ÖáÒÿÿÿÿÿ8€‰’¿1
-n
-java:S1104
-"RMake weight a static final constant or non-public and provide accessors if needed.(œŠ¾x8€‰’¿1
-o
-java:S1104"RMake height a static final constant or non-public and provide accessors if needed.(‹ô‰ø8€‰’¿1
-u	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ç‘õ8€‰’¿1
-y	java:S116"XRename this field "favorite_food" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÊÕÃóıÿÿÿÿ8€‰’¿1
-v	java:S116	"URename this field "date_entry" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(’ÖáÒÿÿÿÿÿ8€‰’¿1
-o	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(æ«ëäıÿÿÿÿ8”¯Œ’¿1
-j	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŸĞşı8”¯Œ’¿1
-o	java:S100)"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ì‹É¶üÿÿÿÿ8•¯Œ’¿1
-j	java:S100+"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ş‘øì8•¯Œ’¿1
