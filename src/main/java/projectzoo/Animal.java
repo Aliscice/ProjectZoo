@@ -2,7 +2,7 @@ package projectzoo;
 
 import java.time.LocalDate;
 
-public class Animals  {
+public class Animal {
     private String nickname;
     private String favoriteFood;
     private int age;
@@ -11,7 +11,7 @@ public class Animals  {
     private double height;
 
 
-    public Animals(String nickname, String favoriteFood, int age, LocalDate dateEntry, double weight, double height){
+    public Animal(String nickname, String favoriteFood, int age, LocalDate dateEntry, double weight, double height){
     this.nickname = nickname;
     this.favoriteFood = favoriteFood;
     this.age = age;
@@ -55,4 +55,5 @@ public class Animals  {
     public void setHeight(double height) {
         this.height = height;
     }
+
 }
