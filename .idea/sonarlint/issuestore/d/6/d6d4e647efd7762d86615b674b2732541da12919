@@ -1,8 +1,0 @@
-
-r
-java:S1104"UMake lionsList a static final constant or non-public and provide accessors if needed.(Æ¥öı8ÛŒ¤¼¿1
-s
-java:S1104"VMake tigersList a static final constant or non-public and provide accessors if needed.(”™†8ÛŒ¤¼¿1
-s
-java:S1104	"VMake eaglesList a static final constant or non-public and provide accessors if needed.(í¨Òè8ÜŒ¤¼¿1
-{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(½æ”µúÿÿÿÿ8Ô±’–¿1

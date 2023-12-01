@@ -1,8 +1,0 @@
-
-v
-java:S1104"TMake lionList a static final constant or non-public and provide accessors if needed.(šœïùÿÿÿÿ8‚İ±¾¿1
-w
-java:S1104"UMake tigerList a static final constant or non-public and provide accessors if needed.(·ªÜÄÿÿÿÿÿ8¡½´¾¿1
-w
-java:S1104	"UMake eagleList a static final constant or non-public and provide accessors if needed.(®™ÿêıÿÿÿÿ8Ÿ¦¶¾¿1
-{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‚®—¬ûÿÿÿÿ8¿ï”¾¿1
